@@ -1,0 +1,5 @@
+Juancito:
+
+-Crear la navbar
+-Implementar todo el header
+-Mergear al master
